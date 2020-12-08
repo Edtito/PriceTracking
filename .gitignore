@@ -1,0 +1,5 @@
+backend/django
+.vscode
+backend/pricetracking/corsheaders
+backend/django
+
